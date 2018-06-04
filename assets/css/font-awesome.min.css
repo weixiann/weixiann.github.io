@@ -21,5 +21,19 @@
 <p>Unicode:</p>
 <i style="font-size:24px" class="fa">&#xf16d;</i>
 
+<h1>fa fa-facebook</h1>
+
+<i class="fa fa-facebook"></i>
+<i class="fa fa-facebook" style="font-size:24px"></i>
+<i class="fa fa-facebook" style="font-size:36px"></i>
+<i class="fa fa-facebook" style="font-size:48px;color:red"></i>
+<br>
+
+<p>Used on a button:</p>
+<button style="font-size:24px">Button <i class="fa fa-facebook"></i></button>
+
+<p>Unicode:</p>
+<i style="font-size:24px" class="fa">&#xf09a;</i>
+
 </body>
 </html> 
