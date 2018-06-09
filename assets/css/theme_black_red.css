@@ -926,7 +926,7 @@ i {
 
 .site-nav__menu a:focus,
 .site-nav__menu a:hover {
-  color: #fff;
+  color: #e81351;
 }
 
 .site-nav__menu a.is-active {
