@@ -486,6 +486,7 @@ a {
 
 a:focus {
   outline: 0;
+  color: #c71045;
 }
 
 a:focus,
@@ -926,7 +927,7 @@ i {
 
 .site-nav__menu a:focus,
 .site-nav__menu a:hover {
-  color: #e81351;
+  color: #fff;
 }
 
 .site-nav__menu a.is-active {
