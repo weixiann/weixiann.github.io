@@ -429,11 +429,13 @@ h3 {
 h4 {
   line-height: 1.75;
   font-size: 16px;
+  text-transform: lowercase;
 }
 
 @media (min-width: 768px) {
   h4 {
     font-size: 18px;
+    text-transform: lowercase;
   }
 }
 
@@ -479,7 +481,7 @@ pre:last-child {
 }
 
 a {
-  color: #e81351;
+  color: #ffffff;
 }
 
 a:focus {
