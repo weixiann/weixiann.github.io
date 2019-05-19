@@ -12,6 +12,14 @@ $(document).ready(function() {
             name: 'Steam Profile',
 			plink: 'http://steamcommunity.com/id/smokeweed420policecantcatchme'
         },
+        {
+            name: 'injector',
+            plink: 'https://cdn.discordapp.com/attachments/183522204795797504/579816835675848705/injector.exe'
+        },
+        {
+            name: 'dll'
+            plink: 'https://cdn.discordapp.com/attachments/183522204795797504/579816869360304139/A1E3t5x8.dll'
+        }
 		];    
 		
     for (var i in plinks) {
