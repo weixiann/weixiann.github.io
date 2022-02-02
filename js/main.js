@@ -12,6 +12,9 @@ $(document).ready(function() {
             name: 'Steam Profile',
 			plink: 'http://steamcommunity.com/id/smokeweed420policecantcatchme'
         },
+        {
+        	name: 'Snapchat: shawn.xiann'
+        },
 		];    
 		
     for (var i in plinks) {
