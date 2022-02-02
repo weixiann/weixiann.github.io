@@ -15,6 +15,10 @@ $(document).ready(function() {
         {
         	name: 'Snapchat: shawn.xiann'
         },
+        {
+        	name: 'Twitter'
+        	plink: 'https://twitter.com/SuwanCyberSec'
+        },
 		];    
 		
     for (var i in plinks) {
