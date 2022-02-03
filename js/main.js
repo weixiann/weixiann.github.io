@@ -1,8 +1,8 @@
 $(document).ready(function() {
     var plinks = [
        	{
-            name: 'Facebook',
-			plink: 'https://www.facebook.com/zhawn1337'
+        	name: 'Twitter'
+        	plink: 'https://twitter.com/SuwanCyberSec'
         },
        	{
             name: 'Instagram',
@@ -11,10 +11,6 @@ $(document).ready(function() {
        	{
             name: 'Steam Profile',
 			plink: 'http://steamcommunity.com/id/smokeweed420policecantcatchme'
-        },
-        {
-        	name: 'Twitter'
-        	plink: 'https://twitter.com/SuwanCyberSec'
         },
 		];    
 		
