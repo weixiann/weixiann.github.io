@@ -13,9 +13,6 @@ $(document).ready(function() {
 			plink: 'http://steamcommunity.com/id/smokeweed420policecantcatchme'
         },
         {
-        	name: 'Snapchat: shawn.xiann'
-        },
-        {
         	name: 'Twitter'
         	plink: 'https://twitter.com/SuwanCyberSec'
         },
