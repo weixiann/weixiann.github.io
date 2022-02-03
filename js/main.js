@@ -2,7 +2,7 @@ $(document).ready(function() {
     var plinks = [
        	{
         	name: 'Twitter'
-        	plink: 'https://twitter.com/SuwanCyberSec'
+        	plink: ''
         },
        	{
             name: 'Instagram',
