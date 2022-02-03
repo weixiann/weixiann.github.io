@@ -1,15 +1,15 @@
 $(document).ready(function() {
     var plinks = [
        	{
-            name: 'Facebook',
+            name: 'twitter',
 			plink: 'https://www.facebook.com/zhawn1337'
         },
        	{
-            name: 'Instagram',
+            name: 'instagram',
 			plink: 'https://www.instagram.com/weixiann/?hl=en'
         },
        	{
-            name: 'Steam Profile',
+            name: 'steam profile',
 			plink: 'http://steamcommunity.com/id/smokeweed420policecantcatchme'
         },
 		];    
