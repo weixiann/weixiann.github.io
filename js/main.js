@@ -1,8 +1,8 @@
 $(document).ready(function() {
     var plinks = [
        	{
-        	name: 'Twitter'
-        	plink: ''
+            name: 'Facebook',
+			plink: 'https://www.facebook.com/zhawn1337'
         },
        	{
             name: 'Instagram',
