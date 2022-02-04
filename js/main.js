@@ -2,7 +2,7 @@ $(document).ready(function() {
     var plinks = [
        	{
             name: 'twitter',
-			plink: 'https://www.facebook.com/zhawn1337'
+			plink: 'https://twitter.com/princeweixiann'
         },
        	{
             name: 'instagram',
