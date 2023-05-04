@@ -6,7 +6,7 @@ $(document).ready(function() {
         },
        	{
             name: 'instagram',
-			plink: 'https://www.instagram.com/weixiann/?hl=en'
+			plink: 'https://www.instagram.com/xiannxtdoor/?hl=en'
         },
        	{
             name: 'steam profile',
