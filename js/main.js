@@ -12,6 +12,10 @@ $(document).ready(function() {
             name: 'steam profile',
 			plink: 'http://steamcommunity.com/id/smokeweed420policecantcatchme'
         },
+	{
+            name: 'tiktok',
+			plink: 'https://www.tiktok.com/@shawnxiann'
+        },
 		];    
 		
     for (var i in plinks) {
